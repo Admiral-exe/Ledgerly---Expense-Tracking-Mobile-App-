@@ -19,3 +19,8 @@ https://github.com/Admiral-exe/Ledgerly---Expense-Tracking-Mobile-App-/blob/main
 ## 🔗 Project Links
 - Figma Prototype: https://www.figma.com/design/zZKvyIlcQNTMx13PJLWl8j/Untitled?node-id=0-1&t=AbYuVX3S8ufrY6RA-1
 - Design Presentation (PDF): https://drive.google.com/drive/folders/1Wo-dezhw1qjo8QDdCxvZLqw-fVMTQE7r?usp=drive_link
+
+## 🔗 Task 2 links
+- User journey: https://github.com/Admiral-exe/Ledgerly---Expense-Tracking-Mobile-App-/blob/main/User%20journey.png
+- User Persona: https://github.com/Admiral-exe/Ledgerly---Expense-Tracking-Mobile-App-/blob/main/User%20persona%201.png
+- Low fidelity images: https://github.com/Admiral-exe/Ledgerly---Expense-Tracking-Mobile-App-/blob/main/low-fidelity.png
